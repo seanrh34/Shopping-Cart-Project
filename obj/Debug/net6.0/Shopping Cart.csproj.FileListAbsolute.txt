@@ -1,0 +1,15 @@
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\bin\Debug\net6.0\Shopping Cart.exe
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\bin\Debug\net6.0\Shopping Cart.deps.json
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\bin\Debug\net6.0\Shopping Cart.runtimeconfig.json
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\bin\Debug\net6.0\Shopping Cart.dll
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\bin\Debug\net6.0\Shopping Cart.pdb
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\obj\Debug\net6.0\Shopping Cart.csproj.AssemblyReference.cache
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\obj\Debug\net6.0\Shopping Cart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\obj\Debug\net6.0\Shopping Cart.AssemblyInfoInputs.cache
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\obj\Debug\net6.0\Shopping Cart.AssemblyInfo.cs
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\obj\Debug\net6.0\Shopping Cart.csproj.CoreCompileInputs.cache
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\obj\Debug\net6.0\Shopping Cart.dll
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\obj\Debug\net6.0\refint\Shopping Cart.dll
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\obj\Debug\net6.0\Shopping Cart.pdb
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\obj\Debug\net6.0\Shopping Cart.genruntimeconfig.cache
+C:\Sean\Coding Tutorial\C# Practice Projects\Shopping Cart\obj\Debug\net6.0\ref\Shopping Cart.dll
